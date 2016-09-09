@@ -1,0 +1,9 @@
+c:\users\muslu\documents\visual studio 2013\Projects\GenericWebApi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+c:\users\muslu\documents\visual studio 2013\Projects\GenericWebApi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\muslu\documents\visual studio 2013\Projects\GenericWebApi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\muslu\documents\visual studio 2013\Projects\GenericWebApi\DataAccessLayer\bin\Debug\EntityFramework.dll
+c:\users\muslu\documents\visual studio 2013\Projects\GenericWebApi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\muslu\documents\visual studio 2013\Projects\GenericWebApi\DataAccessLayer\bin\Debug\EntityFramework.xml
+c:\users\muslu\documents\visual studio 2013\Projects\GenericWebApi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\muslu\documents\visual studio 2013\Projects\GenericWebApi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\users\muslu\documents\visual studio 2013\Projects\GenericWebApi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
